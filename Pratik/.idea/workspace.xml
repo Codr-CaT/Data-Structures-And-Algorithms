@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66e2a585-27ea-4bc5-b3b6-c3e88169475b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3CvV9QSOWVbaYd4W2HTB1012hiL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Input_and_output_of_array.executor": "Run",
+    "Application.LinearSearch.executor": "Run",
+    "Application.NegativeElements.executor": "Run",
+    "Application.OddDifferentEvenDifferent.executor": "Run",
+    "Application.ProductOfArray.executor": "Run",
+    "Application.Reversing_an_array.executor": "Run",
+    "Application.Rotate_array.executor": "Run",
+    "Application.Second_Largest_element.executor": "Run",
+    "Application.Two_sum.executor": "Run",
+    "Application.base_arrayList_shradhha.executor": "Run",
+    "Application.shallowCPndDeepCP.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/prati/Desktop/DSA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Rotate_array">
+    <configuration name="Reversing_an_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Reversing_an_array" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rotate_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Rotate_array" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Second_Largest_element" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Second_Largest_element" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Two_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.Two_sum" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="base_arrayList_shradhha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.base_arrayList_shradhha" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Rotate_array" />
+        <item itemvalue="Application.Reversing_an_array" />
+        <item itemvalue="Application.base_arrayList_shradhha" />
+        <item itemvalue="Application.Second_Largest_element" />
+        <item itemvalue="Application.Two_sum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66e2a585-27ea-4bc5-b3b6-c3e88169475b" name="Changes" comment="" />
+      <created>1777265878515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777265878515</updated>
+      <workItem from="1777265879947" duration="5334000" />
+      <workItem from="1777281335826" duration="1299000" />
+      <workItem from="1777355802746" duration="1209000" />
+      <workItem from="1777522982775" duration="4390000" />
+      <workItem from="1778472395692" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
